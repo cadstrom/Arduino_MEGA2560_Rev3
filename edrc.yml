@@ -4,4 +4,4 @@ eagle:
     - file: src/MEGA2560_Rev3e.brd
       dru: default
       approvals:
-        - *,21,*
+        - "*,21,*"
