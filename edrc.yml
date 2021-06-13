@@ -5,3 +5,5 @@ eagle:
       dru: default
       approvals:
         - "*,21,*"
+  erc:
+    - file: MEGA2560_Rev3e.sch
