@@ -90,7 +90,6 @@ eagle:
         - '0,23,8A78F2B2E772F8E3'
         - '0,23,D0766C5897388B90'
         - '0,23,017AE92B4AAE6BE2'
-      dru:
-        file: default
+      dru: default
   erc:
     - file: MEGA2560_Rev3e.sch
